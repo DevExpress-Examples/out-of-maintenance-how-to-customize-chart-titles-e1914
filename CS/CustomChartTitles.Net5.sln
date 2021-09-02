@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomChartTitles", "CustomChartTitles.csproj", "{8793C347-B996-4DC6-B68D-E042098DF854}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomChartTitles", "CustomChartTitles.Net5.csproj", "{8793C347-B996-4DC6-B68D-E042098DF854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
